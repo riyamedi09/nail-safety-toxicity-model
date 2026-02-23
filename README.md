@@ -1,4 +1,4 @@
-# nail-safety-toxicity-model
+# nail-safety-exposure-model
 Quantitative modeling of ingredient-based exposure risk across consumer product tiers.
 
 ![Nail Safety Model](Nail_Safety_Final_Readable.png)
